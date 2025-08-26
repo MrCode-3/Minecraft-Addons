@@ -69,7 +69,7 @@ En esta guía enseñaremos paso a paso la instalación de addons en un servidor,
 
 ![server.propertiesLevelName](https://github.com/MrCode-3/Minecraft-Addons/blob/main/resources/serverpropertiesLevelNameWindows.png)
 
-- Da clic en el botón **Guardar Archivo**.
+- Da clic en el botón **Guardar Contenido**.
 - ¡Ya quedó listo! Finalmente enciende tu servidor y disfruta de tu juego.
 
 
